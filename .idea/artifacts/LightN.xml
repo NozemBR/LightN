@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LightN">
-    <output-path>$PROJECT_DIR$/../../server/plugins</output-path>
-    <root id="archive" name="LightN.jar">
-      <element id="module-output" name="sgp" />
-    </root>
-  </artifact>
-</component>
