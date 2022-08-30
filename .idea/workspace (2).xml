@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LuzN" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b2546f2-da0e-42bf-bf22-49c1cec24f34" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CJYlOCy9WIWx3zsDOW8FUePjPW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/craft/Documents/server/plugins&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\craft\Documents\plugins" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b2546f2-da0e-42bf-bf22-49c1cec24f34" name="Changes" comment="" />
+      <created>1658522310634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658522310634</updated>
+      <workItem from="1658522311865" duration="14079000" />
+      <workItem from="1658582633618" duration="8070000" />
+      <workItem from="1658673131994" duration="685000" />
+      <workItem from="1659490311772" duration="50000" />
+      <workItem from="1659490571541" duration="8000" />
+      <workItem from="1659829838975" duration="413000" />
+      <workItem from="1659832492726" duration="140000" />
+      <workItem from="1659832650468" duration="63000" />
+      <workItem from="1659848341353" duration="2144000" />
+      <workItem from="1659854686568" duration="61000" />
+      <workItem from="1659863156093" duration="306000" />
+      <workItem from="1659863663906" duration="1286000" />
+      <workItem from="1659982690146" duration="38000" />
+      <workItem from="1660598067329" duration="4063000" />
+      <workItem from="1660602505937" duration="10000" />
+      <workItem from="1660604172069" duration="20000" />
+      <workItem from="1660846347253" duration="93000" />
+      <workItem from="1660846448325" duration="31000" />
+      <workItem from="1660846484792" duration="3535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../server teste/server.jar!/org/bukkit/command/CommandExecutor.class</url>
+          <line>8</line>
+          <properties class="org.bukkit.command.CommandExecutor" method="onCommand">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

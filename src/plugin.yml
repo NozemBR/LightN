@@ -1,0 +1,6 @@
+main: me.nozembr.Main
+name: LightN
+version: 1.0
+commands:
+  light:
+    description: "Toggle light"
